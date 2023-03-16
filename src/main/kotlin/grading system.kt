@@ -17,6 +17,6 @@ fun main(args: Array<String>) {
         print("C Good trial can do better")
     }
     else if (marks <=49){
-        print("Below average retake the exam")
+        print(" E Below average retake the exam")
     }
 }
